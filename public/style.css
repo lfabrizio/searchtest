@@ -1,0 +1,40 @@
+.backgroundsearch {
+    background: #00467f;
+    border-radius: 10px; 
+}
+
+.LibLinksWhite  a:link{
+    color: #fff;
+}
+
+.LibLinksWhite a:visited{
+    color: #fff;
+}
+
+.LibLinksWhite a:hover{
+    color:#fff;
+}
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:focus,
+.nav-pills>li.active>a:hover{
+    margin-right: 3px;
+    background-color: #42aa9c;
+}
+
+.nav-pills>li>a,
+.nav-pills>li>a:focus{
+   background-color: #efefef;
+   margin-right: 3px;
+
+}
+.nav-pills>li>a:hover {
+      background-color: #e6e6e6; 
+}
+
+.lrcSearchButton {
+    background-color: #4233aa;
+}
+
+.lrcSearchButton>a:hover{
+    background-color: #4284aa;    
+}

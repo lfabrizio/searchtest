@@ -1,0 +1,1 @@
+#s-lg-guide-tabs-title-bar { display: none; } /* hides line under page name*/
